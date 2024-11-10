@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Java, Python, C#, pHp and React.**
 
 - 📫 How to reach me **dlshngamage917@gmail.com**
+  
+- 🚀 Passionate about machine learning, data science, and innovative AI solutions.
 <hr>
 
 <h3 align="center">Connect with me:</h3>
