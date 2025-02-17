@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm <b>Dilshan Gamage</b></h1>
-## 🚀 About Me
+
+## 🚀About Me : 
 I'm **Dilshan Gamage**, a **Computer Science undergraduate** at the **University of Kelaniya**, specializing in **Artificial Intelligence**. Passionate about AI, Full-Stack Development, and UI/UX, I love building scalable and intelligent applications.
 
-## 🔗 Live Portfolio
-[🔗 Visit My Portfolio](https://dlshn.github.io/personel-portfolio-2/)
+
+
 <hr>
 
-- 🌱 I’m currently learning **Java, Python, C#, pHp and React.**
-
-- 📫 How to reach me **dlshngamage917@gmail.com**
-  
-- 🚀 Passionate about machine learning, data science, and innovative AI solutions.
+## Contact Me  
+- **Portfolio:** [http://dilshangamage.me/](http://dilshangamage.me/)
+- **Email:** dlshngamage917@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/dilshangamage/](https://www.linkedin.com/in/dilshangamage/)   
+- **WhatsApp:** +94 70 557 0433  
 <hr>
 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dilshangamage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan gamage" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dilshanrandikasandaruwan.drs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dlshn fb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@AgriZone-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agrizone yt" height="30" width="40" /></a>
 <a href="https://br.pinterest.com/agrizoneofficial01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="pinterest" height="30" width="40" /></a>
@@ -30,4 +30,3 @@ I'm **Dilshan Gamage**, a **Computer Science undergraduate** at the **University
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlshn&show_icons=true&locale=en&layout=compact" alt="dlshn" /></p>
