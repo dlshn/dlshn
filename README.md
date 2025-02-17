@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Dilshan Gamage</b></h1>
-<h3 align="center">Passionate Software Engineering Undergraduate | Building Smart Solutions with Code.</h3>
+## 🚀 About Me
+I'm **Dilshan Gamage**, a **Computer Science undergraduate** at the **University of Kelaniya**, specializing in **Artificial Intelligence**. Passionate about AI, Full-Stack Development, and UI/UX, I love building scalable and intelligent applications.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dlshn&label=Profile%20views&color=0e75b6&style=flat" alt="dlshn" /> </p>
+## 🔗 Live Portfolio
+[🔗 Visit My Portfolio](https://dlshn.github.io/personel-portfolio-2/)
 <hr>
 
 - 🌱 I’m currently learning **Java, Python, C#, pHp and React.**
