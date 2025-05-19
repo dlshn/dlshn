@@ -1,32 +1,101 @@
-<h1 align="center">Hi 👋, I'm <b>Dilshan Gamage</b></h1>
-
-## 🚀About Me : 
-I'm **Dilshan Gamage**, a **Computer Science undergraduate** at the **University of Kelaniya**, specializing in **Artificial Intelligence**. Passionate about AI, Full-Stack Development, and UI/UX, I love building scalable and intelligent applications.
-
-
-
-<hr>
-
-## Contact Me  
-- **Portfolio:** [http://dilshangamage.me/](http://dilshangamage.me/)
-- **Email:** dlshngamage917@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/dilshangamage/](https://www.linkedin.com/in/dilshangamage/)   
-- **WhatsApp:** +94 70 557 0433  
-<hr>
-
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Hey 👋, I'm <b>Dilshan Gamage</b></h1>
 
 <p align="center">
-<a href="https://www.facebook.com/dilshanrandikasandaruwan.drs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dlshn fb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@AgriZone-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agrizone yt" height="30" width="40" /></a>
-<a href="https://br.pinterest.com/agrizoneofficial01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="pinterest" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/dlshngamage917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilshan gamage" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FACC&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%94%A1;AI+Specialist+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Enjoy+Your+Stay+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-AI%20Specialist-orange?style=flat-square&logo=OpenAI" />
+  <img src="https://img.shields.io/github/followers/dilshangamage?label=Follow&style=flat-square" />
+  <img src="https://img.shields.io/badge/University-Kelaniya-blue?style=flat-square" />
+</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<hr>
+## 🚀 About Me  
 
+🎓 I'm a **Computer Science Undergraduate** at the **University of Kelaniya**, Sri Lanka  
+🤖 Specializing in **Artificial Intelligence**, building smart systems that learn and adapt  
+💻 Passionate about **Full-Stack Development** and clean **UI/UX Design**  
+🌱 Currently exploring **AI-powered Web Apps**, **Cloud Tools**, and **APIs**  
+
+---
+
+## 📫 Contact Me  
+
+| 📌 | Links |
+|----|-------|
+| 🌐 Portfolio | [dilshangamage.me](http://dilshangamage.me) |
+| 📧 Email | dlshngamage917@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/dilshangamage](https://linkedin.com/in/dilshangamage) |
+| 💬 WhatsApp | [+94 70 557 0433](https://wa.me/94705570433) |
+
+<p align="center">
+  <a href="http://dilshangamage.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.facebook.com/dilshanrandikasandaruwan.drs/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
+  <a href="https://www.youtube.com/@AgriZone-" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/></a>
+  <a href="https://br.pinterest.com/agrizoneofficial01/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pinterest.png" width="40"/></a>
+  <a href="https://www.hackerrank.com/profile/dlshngamage917" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/></a>
+</p>
+
+---
+
+## 🛠️ Skills, Technologies & Tools
+
+### 🚀 Core Stack:
+- **Frontend**: React.js, Bootstrap, Tailwind CSS, JavaScript
+- **Backend**: Node.js, Express.js, PHP, Java, Python, C#, C
+- **Database**: MongoDB, MySQL
+- **Dev Tools**: Git, GitHub, Figma, VS Code
+
+### 🔥 Specialized Stack:
+- **🌿 MERN Stack**: MongoDB, Express.js, React.js, Node.js  
+- **☁️ Cloud Tools**: Cloudinary (Image Hosting), Firebase  
+- **🤖 AI APIs**: Gemini API (by Google), OpenAI APIs  
+
+---
+
+## 💻 Tools I'm Comfortable With
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" alt="chart.js"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshangamage&show_icons=true&theme=react&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshangamage&theme=react" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshangamage&layout=compact&theme=react" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilshangamage&style=flat-square&color=blue" alt="Profile Views" />
+</p>
