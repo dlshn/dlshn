@@ -1,101 +1,141 @@
-<h1 align="center">Hey 👋, I'm <b>Dilshan Gamage</b></h1>
+# 👋 Hello, I'm **Dilshan Gamage**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FACC&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%94%A1;AI+Specialist+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Enjoy+Your+Stay+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%26+AI+Specialist;Building+Tomorrow's+Digital+Solutions;Welcome+to+My+Creative+Space)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-AI%20Specialist-orange?style=flat-square&logo=OpenAI" />
-  <img src="https://img.shields.io/github/followers/dilshangamage?label=Follow&style=flat-square" />
-  <img src="https://img.shields.io/badge/University-Kelaniya-blue?style=flat-square" />
-</p>
+</div>
 
----
+<div align="center">
+  
+![AI Specialist](https://img.shields.io/badge/AI%20Specialist-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-10B981?style=for-the-badge&logo=react&logoColor=white)
+![University of Kelaniya](https://img.shields.io/badge/University%20of%20Kelaniya-1E40AF?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-## 🚀 About Me  
+![Profile Views](https://komarev.com/ghpvc/?username=dilshangamage&style=for-the-badge&color=6366F1)
+![GitHub Followers](https://img.shields.io/github/followers/dilshangamage?style=for-the-badge&color=10B981&logo=github)
 
-🎓 I'm a **Computer Science Undergraduate** at the **University of Kelaniya**, Sri Lanka  
-🤖 Specializing in **Artificial Intelligence**, building smart systems that learn and adapt  
-💻 Passionate about **Full-Stack Development** and clean **UI/UX Design**  
-🌱 Currently exploring **AI-powered Web Apps**, **Cloud Tools**, and **APIs**  
+</div>
 
 ---
 
-## 📫 Contact Me  
+## 🎯 **About Me**
 
-| 📌 | Links |
-|----|-------|
-| 🌐 Portfolio | [dilshangamage.me](http://dilshangamage.me) |
-| 📧 Email | dlshngamage917@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/dilshangamage](https://linkedin.com/in/dilshangamage) |
-| 💬 WhatsApp | [+94 70 557 0433](https://wa.me/94705570433) |
+```javascript
+const dilshan = {
+  role: "Software Engineer & AI Specialist",
+  location: "Sri Lanka 🇱🇰",
+  university: "University of Kelaniya",
+  focus: ["Artificial Intelligence", "Full-Stack Development", "UI/UX Design"],
+  currentlyLearning: ["Machine Learning", "Cloud Architecture", "Advanced React Patterns"],
+  funFact: "I turn coffee into code and ideas into reality ☕➡️💻"
+};
+```
 
-<p align="center">
-  <a href="http://dilshangamage.me" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.facebook.com/dilshanrandikasandaruwan.drs/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
-  <a href="https://www.youtube.com/@AgriZone-" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/></a>
-  <a href="https://br.pinterest.com/agrizoneofficial01/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pinterest.png" width="40"/></a>
-  <a href="https://www.hackerrank.com/profile/dlshngamage917" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/></a>
-</p>
+🚀 **What I Do:**
+- 🤖 **AI Development**: Creating intelligent systems that learn and adapt
+- 💻 **Full-Stack Engineering**: Building scalable web applications from concept to deployment  
+- 🎨 **UI/UX Design**: Crafting beautiful, user-centric digital experiences
+- ☁️ **Cloud Solutions**: Implementing modern cloud-native architectures
 
 ---
 
-## 🛠️ Skills, Technologies & Tools
+## 🛠️ **Tech Arsenal**
 
-### 🚀 Core Stack:
-- **Frontend**: React.js, Bootstrap, Tailwind CSS, JavaScript
-- **Backend**: Node.js, Express.js, PHP, Java, Python, C#, C
-- **Database**: MongoDB, MySQL
-- **Dev Tools**: Git, GitHub, Figma, VS Code
+<div align="center">
 
-### 🔥 Specialized Stack:
-- **🌿 MERN Stack**: MongoDB, Express.js, React.js, Node.js  
-- **☁️ Cloud Tools**: Cloudinary (Image Hosting), Firebase  
-- **🤖 AI APIs**: Gemini API (by Google), OpenAI APIs  
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
-## 💻 Tools I'm Comfortable With
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" alt="chart.js"/>
-</p>
+### **AI & Cloud Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
----
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshangamage&show_icons=true&theme=react&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshangamage&theme=react" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshangamage&layout=compact&theme=react" width="50%" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshangamage&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilshangamage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=6366f1&icon_color=10b981&text_color=c9d1d9&border_color=30363d"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshangamage&theme=tokyonight&background=0d1117&border=30363d&stroke=6366f1&ring=10b981&fire=f59e0b&currStreakLabel=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshangamage&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d&border_radius=10"/>
+
+</div>
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilshangamage&repo=your-featured-repo&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d)](https://github.com/dilshangamage/your-featured-repo)
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](http://dilshangamage.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshangamage)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlshngamage917@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94705570433)
+
+</div>
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dilshanrandikasandaruwan.drs/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AgriZone-)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/agrizoneofficial01/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dlshngamage917)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Code is poetry, and every bug is just a plot twist"*
+
+**Thanks for stopping by! Let's build something amazing together 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
