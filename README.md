@@ -53,10 +53,12 @@ const dilshan = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### **Frontend Technologies**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
 
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -102,9 +104,14 @@ const dilshan = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilshangamage&repo=your-featured-repo&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d)](https://github.com/dilshangamage/your-featured-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dlshn&repo=unity-builders-lanka-web&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d)](https://github.com/dlshn/unity-builders-lanka-web)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dlshn&repo=AgriZone-Blog-With-ChatBot&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d)](https://github.com/dlshn/AgriZone-Blog-With-ChatBot.git)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dlshn&repo=JobLanka&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d)](https://github.com/dlshn/JobLanka.git)
 
 </div>
+
 
 ---
 
