@@ -1,8 +1,8 @@
-# <div align="center"> **Dilshan Gamage** 🚀</div>
+# <div align="center"> **Dilshan Gamage** </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+AI+Specialist;🤖+MERN+%7C+Voiceflow+%7C+Airtable+%7C+Cloud+Solutions;🌟+Building+Intelligent%2C+Scalable+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+AI+Specialist;+MERN+%7C+Voiceflow+%7C+Airtable+%7C+Cloud+Solutions;🌟+Building+Intelligent%2C+Scalable+Digital+Experiences)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
