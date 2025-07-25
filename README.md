@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+AI+Specialist;+MERN+%7C+Voiceflow+%7C+Airtable+%7C+Cloud+Solutions;🌟+Building+Intelligent%2C+Scalable+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+AI+Specialist;+MERN+Stack+%7C+Cloud+Solutions+%7C+API+Integrations;🌟+Building+Intelligent%2C+Scalable+Digital+Experiences)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
@@ -110,7 +110,7 @@ const dilshan = {
 </div>
 
 ---
-## <div align="center">🌟 **Featured Projects** 🌟</div>
+## <div align="center">🌟 **Latest Projects** 🌟</div>
 
 <div align="center">
 <table>
@@ -158,28 +158,6 @@ const dilshan = {
 </tr>
 </table>
 </div>
-
----
-
-## <div align="center">📊 **GitHub Analytics** 📊</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=dlshn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dlshn&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlshn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=10"/>
-
-</div>
-
-
 
 ---
 
